@@ -4,4 +4,4 @@
 
 https://www.udemy.com/course/complete-react-developer-zero-to-mastery
 
-![Robohash](/preview.png)
+![Crwn Clothing V2 with GraphQL](/preview.png)
