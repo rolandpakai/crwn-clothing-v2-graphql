@@ -19,7 +19,7 @@ const rootElement = document.getElementById('root');
 
 render(
   <React.StrictMode>
-    <ApolloProvider>
+    <ApolloProvider client={client}>
       <BrowserRouter>
         <UserProvider>
           <CategoriesProvider>
